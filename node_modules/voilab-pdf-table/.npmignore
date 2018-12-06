@@ -1,0 +1,6 @@
+/.vagrant
+/node_modules
+/tests
+
+/Vagrantfile
+/vagrant-bootstrap.sh

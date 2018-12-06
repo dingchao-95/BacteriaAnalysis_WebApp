@@ -1,0 +1,211 @@
+  
+   <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <title>bacteria analysis</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.5.2/css/buttons.dataTables.min.css">
+    
+    <!--script(src='https://d3js.org/d3.v4.min.js', charset='utf-8')-->
+    <script src="https://fastcdn.org/FileSaver.js/1.1.20151003/FileSaver.min.js"></script>
+    <script src="/bower_components/jquery/dist/jquery.js"></script>
+    <script src="https://unpkg.com/xlsx/dist/xlsx.full.min.js" charset="utf-8"></script>
+    
+    </head>
+
+    <body>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <div class="container">
+        <div class="navbar-header"><a class="navbar-brand" href="/">Bacteria Charts</a></div>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="nav navbar-nav mr-auto">
+            <li class="active page-link" data-page="home"><a href="">Home</a></li>
+            <li class="page-link" data-page="report"><a href="">Bacteria Report</a></li>
+            <li class="page-link" data-page="process"><a href="">Repository</a></li>
+            <li class="page-link" data-page="chart"><a href="">Chart</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right"></ul>
+        </div>
+        </div>
+    </nav>
+    
+    
+    <section class="page home-page">
+    <h3>Drug Table</h3>
+        <table class="table table-striped display" id="wrapper" style="width:100%;">
+        <thead>
+            <tr>
+            <th>Expt details</th>
+            <th>Therapeutic Class/effect</th>
+            <th>Compound Name</th>
+            <th>Drug</th>
+            <th>Conc of drug (uM)</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+        <tfoot>
+            <tr>
+            <th>Expt details</th>
+            <th>Therapeutic Class/effect</th>
+            <th>Compound Name</th>
+            <th>Drug</th>
+            <th>Conc of drug (uM)</th>
+            </tr>
+        </tfoot>
+        </table>
+
+            <input type="button" value="add new row" id="addbtn" />
+            <!-- The Modal -->
+            <div id="myModal" class="modal">
+                    
+                <!-- Modal content -->
+                <div class="modal-content">
+                <span class="close">&times;</span>
+                <div id="rowValsErr">
+                        <p>Please fill in all the values.</p>
+                    </div>
+                <form action="/api/addRows" method="POST" id="addnewRows" enctype="application/x-www-form-urlencoded">
+                    Expt details: <br/><input type="text" name="Expt_details" id="exptDetails" /> <br/>
+                    Therapeutic Class/effect: <br/><input type="text" name="Therapeutic_Class_effect" id="theraClass" /> <br/>
+                    Compound Name: <br/><input type="text" name="Compound_Name" id="compName"/> <br/>
+                    Drug: <br/><input type="text" name="Drug" id="drug"/> <br/>
+                    Conc of drug (uM): <br/><input type="text" name="Conc_of_drug_uM" id="concDrug"/> <br/>
+                    <button type="submit" class="btn btn-default" id="addRows" >add new rows</button>
+                </form>
+                
+                </div>
+            
+            </div>
+
+
+    </section>
+    <section class="page chart-page">
+
+            <div class="container-fluid"></div>
+                        
+            <div class="row">
+              <div class="col-sm-8" style="background-color:lavender;">
+                   
+
+                    <form action="/upload" method="POST" id="csvData" enctype="multipart/form-data">
+                        <input type="file" id="uploadFile" name="csvFile" accept=".csv,text/csv"/>
+                        
+                        <button type="submit" class="btn btn-default" id="submitBtn" >Upload File</button>
+                    </form>
+                    <br>
+
+                    <form action="/api/returnFileDir" method="POST" id="fileDir" enctype="text/plain">
+                        Enter directory name:<br>
+                        <div id ="dirName">
+                        <input type="text" id="dirName" name="dirName"><br>
+                        </div>
+                    </form>
+
+                    <div id="downloadChart">
+                    <button class="btn btn-default" id="downloadSVG" >Download charts</button>
+                    </div>
+
+            </div>
+              
+                    <div id="chart">
+                            <button id="resetBtn">Reset</button>   
+                    </div>
+            
+            </div>
+          </div>
+
+            
+
+            <% if(locals.message){ %>
+                <div class="alert alert-success" role="alert">
+                    <strong>Upload complete.</strong> <%=message.success%>
+                </div>
+            <% } %>
+
+            <div id="noFileErrorMsg">
+                <p>Error, no file detected.</p>
+            </div>
+
+
+       
+        <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js" charset="utf-8"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.2/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.2/js/buttons.html5.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.2/js/buttons.print.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/1.5.2/js/buttons.flash.min.js"></script>
+    <script src="/bower_components/jquery/dist/TableToJson.min.js"></script>
+    <script src="scripts/index.js" charset="utf-8"></script>
+    <script src="scripts/chart.js" charset="utf-8"></script>
+    <script src="scripts/home.js" charset="utf-8"></script>
+    <script src="scripts/process.js" charset="utf-8"></script>
+    <script src="scripts/saveSvgAsPng.js"></script>
+    <script src="/bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="scripts/report.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('#wrapper').DataTable({
+                    dom: 'Bfrtip',
+                    buttons: ['excel','print','csv','copy'],
+                    "ajax": {
+                    "url": "/api/getJson",
+                    "dataSrc": ""
+                },
+                "columns": [
+                        { "data": 'Expt_details'},
+                        { "data": 'Therapeutic_Class_effect'},
+                        { "data": 'Compound_Name'},
+                        { "data": 'Drug'},
+                        { "data": 'Conc_of_drug_uM'}
+                    ]
+            });
+        });
+    </script>
+    </section>
+
+    <section class="page process-page">
+           
+                <div class="container-fluid"></div>
+                        
+                        <div class="row">
+                          <div class="col-sm-6" style="background-color:lavender;">
+                            <form method="POST" id="selectedDir" action="/api/selectedDir">
+                                <select class="locality" id="locality-dropdown" name="locality">
+                                    </select>
+                                <input type="submit" id="selectDropDown" />
+                            </form>
+                                
+                            <div id="fileLists">
+                                
+                            </div>
+                        </div>
+                          <div class="col-sm-5" style="background-color:lavenderblush;"></div>
+                        </div>
+                      </div>
+    </section>
+    
+    <section class="page report-page" id="report-page">
+            <form method="POST" id="pdfForm" action="/api/renderPDF">
+                <div id="collapsibleArr">
+            
+                    </div>
+                    
+                    <div id="floater">
+                        <input type="submit" id="selectCollapsibleArr" />
+                    </div>
+                
+            </form>
+        
+    </section>
+
+    </body>
+
+    
+</html>

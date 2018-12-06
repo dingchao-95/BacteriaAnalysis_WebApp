@@ -1,0 +1,3372 @@
+{
+"data":
+[
+	{
+		"Expt_details": "Imaging 012 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Acetazolamide",
+		"Drug": "1",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 012 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Amiloride hydrochloride dihydrate",
+		"Drug": "2",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 012 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Hydrochlorothiazide",
+		"Drug": "3",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 012 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Meticrane",
+		"Drug": "4",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 012 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Hydroflumethiazide",
+		"Drug": "5",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 012 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Panthenol (D)",
+		"Drug": "6",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 012 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Antipyrine, 4-hydroxy",
+		"Drug": "7",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 012 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Triamterene",
+		"Drug": "8",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 012 72hrs",
+		"Therapeutic_Class_effect": "Anti-inflammatory",
+		"Compound_Name": "Prednisone",
+		"Drug": "9",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 012 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Metformin hydrochloride",
+		"Drug": "10",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 012 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology / Anti-Inflammatory",
+		"Compound_Name": "Isoflupredone acetate",
+		"Drug": "11",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 012 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Norethynodrel",
+		"Drug": "12",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 012 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Acetohexamide",
+		"Drug": "13",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 013 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Heptaminol hydrochloride",
+		"Drug": "14",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 013 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Captopril",
+		"Drug": "15",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 013 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Minoxidil",
+		"Drug": "16",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 013 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Diprophylline",
+		"Drug": "17",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 013 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Hexamethonium dibromide dihydrate",
+		"Drug": "18",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 013 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Moxisylyte hydrochoride",
+		"Drug": "19",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 013 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Naphazoline hydrochloride",
+		"Drug": "20",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 013 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Lidocaine hydrochloride",
+		"Drug": "21",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 013 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Tolazoline hydrochloride",
+		"Drug": "22",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 013 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Nifedipine",
+		"Drug": "23",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 013 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Chlorpromazine hydrochloride",
+		"Drug": "24",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 013 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Isoxsuprine hydrochloride",
+		"Drug": "25",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 013 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Acebutolol hydrochloride",
+		"Drug": "26",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 013 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Todralazine hydrochloride",
+		"Drug": "27",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 014 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Diazoxide",
+		"Drug": "28",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 014 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Pindolol",
+		"Drug": "29",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 014 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Khellin",
+		"Drug": "30",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 014 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Mianserine hydrochloride",
+		"Drug": "31",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 014 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Nicorandil",
+		"Drug": "32",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 014 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Metolazone",
+		"Drug": "33",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 014 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Diltiazem hydrochloride",
+		"Drug": "34",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 014 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Verapamil hydrochloride",
+		"Drug": "35",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 014 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Dipyridamole",
+		"Drug": "36",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 014 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Nicergoline",
+		"Drug": "37",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 014 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Acyclovir",
+		"Drug": "38",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 014 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Disulfiram",
+		"Drug": "39",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 015 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Fulvestrant",
+		"Drug": "40",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 015 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Lynestrenol",
+		"Drug": "41",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 015 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Danazol",
+		"Drug": "42",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 015 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Pioglitazone",
+		"Drug": "43",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 015 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Oxandrolone",
+		"Drug": "44",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 015 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology/Anti-inflammatory",
+		"Compound_Name": "Triamcinolone",
+		"Drug": "45",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 015 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Spironolactone",
+		"Drug": "46",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 015 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology/Anti-inflammatory",
+		"Compound_Name": "Dexamethasone acetate",
+		"Drug": "47",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 015 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Glipizide",
+		"Drug": "48",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 015 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Tamoxifen citrate",
+		"Drug": "49",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 015 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Canrenoic acid potassium salt",
+		"Drug": "50",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 016 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Hydralazine hydrochloride",
+		"Drug": "51",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 016 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Etofylline",
+		"Drug": "52",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 016 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Iproniazide phosphate",
+		"Drug": "53",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 016 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Pargyline hydrochloride",
+		"Drug": "54",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 016 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Pentolinium bitartrate",
+		"Drug": "55",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 016 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Midodrine hydrochloride",
+		"Drug": "56",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 016 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Pentoxifylline",
+		"Drug": "57",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 016 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Metaraminol bitartrate",
+		"Drug": "58",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 016 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Xylometazoline hydrochloride",
+		"Drug": "59",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 016 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Phentolamine hydrochloride",
+		"Drug": "60",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 016 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Dilazep dihydrochloride",
+		"Drug": "61",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 016 72hrs",
+		"Therapeutic_Class_effect": "Anti-inflammatory",
+		"Compound_Name": "Meclofenamic acid sodium salt monohydrate",
+		"Drug": "62",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 016 72hrs",
+		"Therapeutic_Class_effect": "Immunology",
+		"Compound_Name": "Levamisole hydrochloride",
+		"Drug": "63",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 017 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Phenformin hydrochloride",
+		"Drug": "64",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 017 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Aminopurine, 6-benzyl",
+		"Drug": "65",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 017 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Tolbutamide",
+		"Drug": "66",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 017 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Tiratricol, 3,3',5-triiodothyroacetic acid",
+		"Drug": "67",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 017 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Tibolone",
+		"Drug": "68",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 017 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Oxolinic acid",
+		"Drug": "69",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 017 72hrs",
+		"Therapeutic_Class_effect": "metabolism/ Anti-inflammatory",
+		"Compound_Name": "Nimesulide",
+		"Drug": "70",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 017 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Gemfibrozil",
+		"Drug": "71",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 017 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Indapamide",
+		"Drug": "72",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 017 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Carmofur",
+		"Drug": "73",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Testosterone propionate",
+		"Drug": "74",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Thyroxine (L)",
+		"Drug": "75",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Androsterone",
+		"Drug": "76",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology/anti-inflammatory",
+		"Compound_Name": "Corticosterone",
+		"Drug": "77",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Epiandrosterone",
+		"Drug": "78",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Estradiol-17 beta",
+		"Drug": "79",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology/anti-inflammatory",
+		"Compound_Name": "Hydrocortisone base",
+		"Drug": "80",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Stanozolol",
+		"Drug": "81",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Dinoprost trometamol",
+		"Drug": "82",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Progesterone",
+		"Drug": "83",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Biotin",
+		"Drug": "84",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Cyanocobalamin",
+		"Drug": "85",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Carbimazole",
+		"Drug": "86",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Itopride",
+		"Drug": "87",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 018 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Fentiazac",
+		"Drug": "88",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 019 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Amiodarone hydrochloride",
+		"Drug": "89",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 019 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Amlodipine",
+		"Drug": "90",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 019 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Buflomedil hydrochloride",
+		"Drug": "91",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 019 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Carteolol hydrochloride",
+		"Drug": "92",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 019 72hrs",
+		"Therapeutic_Class_effect": "Immunology",
+		"Compound_Name": "Cyclosporin A",
+		"Drug": "93",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 019 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Norethindrone",
+		"Drug": "94",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 019 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Ethisterone",
+		"Drug": "95",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 019 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Cortisone",
+		"Drug": "96",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 019 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Prednisolone",
+		"Drug": "97",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 019 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Methylprednisolone, 6-alpha",
+		"Drug": "98",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 019 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Mifepristone",
+		"Drug": "99",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 019 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Glibenclamide",
+		"Drug": "100",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 020 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Ascorbic acid",
+		"Drug": "101",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 020 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Zoxazolamine",
+		"Drug": "102",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 020 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Furosemide",
+		"Drug": "103",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 020 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Chlorthalidone",
+		"Drug": "104",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 020 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Clopamide",
+		"Drug": "105",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 020 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Amoxicillin",
+		"Drug": "106",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 020 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Brinzolamide",
+		"Drug": "107",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 020 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/Anti-inflammatory",
+		"Compound_Name": "Meloxicam",
+		"Drug": "108",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 020 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Bezafibrate",
+		"Drug": "109",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 020 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Probucol",
+		"Drug": "110",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 021 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Alfuzosin hydrochloride",
+		"Drug": "111",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 021 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Methyldopa (L,-)",
+		"Drug": "112",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 021 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Bisoprolol fumarate",
+		"Drug": "113",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 021 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Practolol",
+		"Drug": "114",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 021 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Zaprinast",
+		"Drug": "115",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 021 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Procainamide hydrochloride",
+		"Drug": "116",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 021 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Guanfacine hydrochloride",
+		"Drug": "117",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 021 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Dobutamine hydrochloride",
+		"Drug": "118",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 021 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Adenosine 5'-monophosphate monohydrate",
+		"Drug": "119",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 021 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Bepridil hydrochloride ",
+		"Drug": "120",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 021 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Benzbromarone",
+		"Drug": "121",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 021 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Debrisoquin sulfate",
+		"Drug": "122",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 022 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Nafronyl oxalate",
+		"Drug": "123",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 022 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Lidoflazine",
+		"Drug": "124",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 022 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Betaxolol hydrochloride",
+		"Drug": "125",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 022 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Nicardipine hydrochloride",
+		"Drug": "126",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 022 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Ketanserin tartrate hydrate",
+		"Drug": "127",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 022 72hrs",
+		"Therapeutic_Class_effect": "Anti-Inflammatory/Ophthalmology",
+		"Compound_Name": "Pemirolast potassium",
+		"Drug": "128",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 022 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Chlorpropamide",
+		"Drug": "129",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 022 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology/Anti-inflammatory",
+		"Compound_Name": "Betamethasone",
+		"Drug": "130",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 022 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Clomiphene citrate (Z,E)",
+		"Drug": "131",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 022 72hrs",
+		"Therapeutic_Class_effect": "Immunology /Anti-inflammatory",
+		"Compound_Name": "Amethopterin (R,S)",
+		"Drug": "132",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 023 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Flavoxate hydrochloride",
+		"Drug": "133",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 023 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Chlorothiazide",
+		"Drug": "134",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 023 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Ethacrynic acid",
+		"Drug": "135",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 023 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Fenofibrate",
+		"Drug": "136",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 023 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Bumetanide",
+		"Drug": "137",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 023 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Glafenine hydrochloride",
+		"Drug": "138",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 023 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Acemetacin",
+		"Drug": "139",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 023 72hrs",
+		"Therapeutic_Class_effect": "Anti-Inflammatory",
+		"Compound_Name": "Fludrocortisone acetate",
+		"Drug": "140",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 023 72hrs",
+		"Therapeutic_Class_effect": "Anti-Inflammatory",
+		"Compound_Name": "Amodiaquin dihydrochloride dihydrate",
+		"Drug": "141",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 023 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Mexiletine hydrochloride",
+		"Drug": "142",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 023 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Pinacidil",
+		"Drug": "143",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 024 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Clonidine hydrochloride",
+		"Drug": "144",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 024 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Alprenolol hydrochloride",
+		"Drug": "145",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 024 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Disopyramide",
+		"Drug": "146",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 024 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Vinpocetine",
+		"Drug": "147",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 024 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Fendiline hydrochloride",
+		"Drug": "148",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 024 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Labetalol hydrochloride",
+		"Drug": "149",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 024 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Quinidine hydrochloride monohydrate",
+		"Drug": "150",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 024 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Perhexiline maleate",
+		"Drug": "151",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 024 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Lisinopril",
+		"Drug": "152",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 024 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Ifenprodil tartrate",
+		"Drug": "153",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 024 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Enalapril maleate",
+		"Drug": "154",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 024 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Clofilium tosylate",
+		"Drug": "155",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 025 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/Anti-inflammatory",
+		"Compound_Name": "Rofecoxib",
+		"Drug": "156",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 025 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Propylthiouracil",
+		"Drug": "157",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 025 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Lovastatin",
+		"Drug": "158",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 025 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Trolox",
+		"Drug": "159",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 025 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Probenecid",
+		"Drug": "160",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 025 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/Anti-inflammatory",
+		"Compound_Name": "Chloroquine diphosphate",
+		"Drug": "161",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 025 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/Anti-inflammatory",
+		"Compound_Name": "Parthenolide",
+		"Drug": "162",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 025 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Tolazamide",
+		"Drug": "163",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 025 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Gliclazide",
+		"Drug": "164",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 026 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Propafenone hydrochloride",
+		"Drug": "165",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 026 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Lofexidine",
+		"Drug": "166",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 026 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Methoxamine hydrochloride",
+		"Drug": "167",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 026 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "(S)-(-)-Atenolol",
+		"Drug": "168",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 026 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Molsidomine",
+		"Drug": "169",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 026 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Trimetazidine dihydrochloride",
+		"Drug": "170",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 026 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Prenylamine lactate",
+		"Drug": "171",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 026 72hrs",
+		"Therapeutic_Class_effect": "Immunology",
+		"Compound_Name": "Tetramisole hydrochloride",
+		"Drug": "172",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 026 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology/Anti-infallmatory",
+		"Compound_Name": "Budesonide",
+		"Drug": "173",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 026 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Miglitol",
+		"Drug": "174",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 026 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Pregnenolone",
+		"Drug": "175",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 027 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Troglitazone",
+		"Drug": "176",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 027 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Tenatoprazole",
+		"Drug": "177",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 027 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Alfacalcidol",
+		"Drug": "178",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 027 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Etofenamate",
+		"Drug": "179",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 027 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Fomepizole",
+		"Drug": "180",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 027 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Tizanidine hydrochloride",
+		"Drug": "181",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 027 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Hydroxychloroquine sulfate",
+		"Drug": "182",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 027 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Fenipentol",
+		"Drug": "183",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 027 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Acipimox",
+		"Drug": "184",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 027 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Pyridoxine hydrochloride",
+		"Drug": "185",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 027 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Folic acid",
+		"Drug": "186",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 027 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Alendronate sodium",
+		"Drug": "187",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 028 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Mevastatin",
+		"Drug": "188",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 028 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Lacidipine",
+		"Drug": "189",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 028 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Papaverine hydrochloride",
+		"Drug": "190",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 028 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Yohimbine hydrochloride",
+		"Drug": "191",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 028 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Celiprolol hydrochloride",
+		"Drug": "192",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 028 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Diosmin",
+		"Drug": "193",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 028 72hrs",
+		"Therapeutic_Class_effect": "Cardiovascular",
+		"Compound_Name": "Benazepril hydrochloride",
+		"Drug": "194",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 028 72hrs",
+		"Therapeutic_Class_effect": "Anti-inflammatory/CNS",
+		"Compound_Name": "Diclofenac sodium",
+		"Drug": "195",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 028 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Acarbose",
+		"Drug": "196",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 028 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Mometasone furoate",
+		"Drug": "197",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 028 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Exemestane",
+		"Drug": "198",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 028 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Diflorasone Diacetate",
+		"Drug": "199",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 028 72hrs",
+		"Therapeutic_Class_effect": "Immunology",
+		"Compound_Name": "Azelastine hydrochloride",
+		"Drug": "200",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 028 72hrs",
+		"Therapeutic_Class_effect": "Immunology",
+		"Compound_Name": "Mercaptopurine",
+		"Drug": "201",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 029 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Rebamipide",
+		"Drug": "202",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 029 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Benfotiamine",
+		"Drug": "203",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 029 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Benzamil hydrochloride",
+		"Drug": "204",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 029 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Tetraethylenepentamine pentahydrochloride",
+		"Drug": "205",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 029 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Irsogladine maleate",
+		"Drug": "206",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 029 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Beta-Escin",
+		"Drug": "207",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 029 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Ibandronate sodium ",
+		"Drug": "208",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 029 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/Anti-inflammatory",
+		"Compound_Name": "Pranoprofen",
+		"Drug": "209",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 029 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Nilvadipine",
+		"Drug": "210",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 029 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Nisoldipine",
+		"Drug": "211",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 029 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Pempidine tartrate",
+		"Drug": "212",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 029 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Ibutilide fumarate",
+		"Drug": "213",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 029 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Tetrahydrozoline hydrochloride",
+		"Drug": "214",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 029 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Isosorbide dinitrate",
+		"Drug": "215",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 030 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology/Anti-inflammatory",
+		"Compound_Name": "Flunisolide",
+		"Drug": "216",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 030 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Glimepiride",
+		"Drug": "217",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 030 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Dydrogesterone",
+		"Drug": "218",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 030 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Estropipate",
+		"Drug": "219",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 030 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "3-alpha-Hydroxy-5-beta-androstan-17-one",
+		"Drug": "220",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 030 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Hexestrol",
+		"Drug": "221",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 030 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Finasteride",
+		"Drug": "222",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 030 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology/Anti-inflammatory",
+		"Compound_Name": "Fluorometholone",
+		"Drug": "223",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 030 72hrs",
+		"Therapeutic_Class_effect": "Anti-inflammatory",
+		"Compound_Name": "Flurandrenolide",
+		"Drug": "224",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 030 72hrs",
+		"Therapeutic_Class_effect": "Anti-inflammatory",
+		"Compound_Name": "Halcinonide",
+		"Drug": "225",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 030 72hrs",
+		"Therapeutic_Class_effect": "Immunology",
+		"Compound_Name": "Thiamine hydrochloride",
+		"Drug": "226",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 031 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Althiazide",
+		"Drug": "227",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 031 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Flumethasone",
+		"Drug": "228",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 031 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Cefazolin sodium salt",
+		"Drug": "229",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 031 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Ebselen",
+		"Drug": "230",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 031 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Nadide",
+		"Drug": "231",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 031 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Sulfamethizole",
+		"Drug": "232",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 031 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Medrysone",
+		"Drug": "233",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 031 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Spiramycin",
+		"Drug": "234",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 031 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Aprepitant",
+		"Drug": "235",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 031 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Demeclocycline hydrochloride",
+		"Drug": "236",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 031 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Fenoprofen calcium salt dihydrate",
+		"Drug": "237",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 031 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Piperacillin sodium salt",
+		"Drug": "238",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 031 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Ribostamycin sulfate salt",
+		"Drug": "239",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 031 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Sulfapyridine",
+		"Drug": "240",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 032 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Ethoxyquin",
+		"Drug": "241",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 032 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Vidarabine",
+		"Drug": "242",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 032 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Sulfameter",
+		"Drug": "243",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 032 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Isopropamide iodide",
+		"Drug": "244",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 032 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Alclometasone dipropionate",
+		"Drug": "245",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 032 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Fluocinonide",
+		"Drug": "246",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 032 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Sulfamethazine sodium salt",
+		"Drug": "247",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 032 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Zomepirac sodium salt",
+		"Drug": "248",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 032 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Cinoxacin",
+		"Drug": "249",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 032 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Clobetasol propionate",
+		"Drug": "250",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 032 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Clofibric acid",
+		"Drug": "251",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 032 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "(R) -Naproxen sodium salt",
+		"Drug": "252",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 032 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Lithocholic acid",
+		"Drug": "253",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 033 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Mephentermine hemisulfate",
+		"Drug": "254",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 033 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Metoprolol-(+,-) (+)-tartrate salt",
+		"Drug": "255",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 033 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Flecainide acetate",
+		"Drug": "256",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 033 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Levonordefrin",
+		"Drug": "257",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 033 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Mevalonic-D, L acid lactone",
+		"Drug": "258",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 033 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Terazosin hydrochloride",
+		"Drug": "259",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 033 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Guanadrel sulfate",
+		"Drug": "260",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 033 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Bendroflumethiazide",
+		"Drug": "261",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 033 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Amrinone",
+		"Drug": "262",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 033 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Diethylstilbestrol",
+		"Drug": "263",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 033 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Chlorotrianisene",
+		"Drug": "264",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 033 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Norgestrel-(-)-D",
+		"Drug": "265",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 033 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Methimazole",
+		"Drug": "266",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 033 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Dienestrol",
+		"Drug": "267",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 034 72hrs",
+		"Therapeutic_Class_effect": "Immunology",
+		"Compound_Name": "Leflunomide",
+		"Drug": "268",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 034 72hrs",
+		"Therapeutic_Class_effect": "Immunology/anti-inflammatory",
+		"Compound_Name": "Deflazacort",
+		"Drug": "269",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 034 72hrs",
+		"Therapeutic_Class_effect": "Immunology",
+		"Compound_Name": "Amiprilose hydrochloride",
+		"Drug": "270",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 034 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Bucladesine sodium salt",
+		"Drug": "271",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 034 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Nadolol",
+		"Drug": "272",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 034 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Aminophylline",
+		"Drug": "273",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 034 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Benzthiazide",
+		"Drug": "274",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 034 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Trichlormethiazide",
+		"Drug": "275",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 034 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Nylidrin",
+		"Drug": "276",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 034 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Doxazosin mesylate",
+		"Drug": "277",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 034 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Simvastatin",
+		"Drug": "278",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 034 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Theophylline monohydrate",
+		"Drug": "279",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 034 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Theobromine",
+		"Drug": "280",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 034 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Carbachol",
+		"Drug": "281",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 035 72hrs",
+		"Therapeutic_Class_effect": "Anti-Inflammatory/Gastroenterology",
+		"Compound_Name": "Balsalazide Sodium",
+		"Drug": "282",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 035 72hrs",
+		"Therapeutic_Class_effect": "Anti-Inflammatory/CNS",
+		"Compound_Name": "Oxalamine citrate salt",
+		"Drug": "283",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 035 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Ethynylestradiol 3-methyl ether",
+		"Drug": "284",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 035 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Equilin",
+		"Drug": "285",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 035 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Liothyronine",
+		"Drug": "286",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 035 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Raloxifene hydrochloride",
+		"Drug": "287",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 035 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Bicalutamide",
+		"Drug": "288",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 035 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Methazolamide",
+		"Drug": "289",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 035 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Spectinomycin dihydrochloride",
+		"Drug": "290",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 035 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Piromidic acid",
+		"Drug": "291",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 035 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Furazolidone",
+		"Drug": "292",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 035 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Sulconazole nitrate",
+		"Drug": "293",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 035 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Cefsulodin sodium salt",
+		"Drug": "294",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 036 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Moxalactam disodium salt",
+		"Drug": "295",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 036 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Azlocillin sodium salt",
+		"Drug": "296",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 036 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Sulfamonomethoxine",
+		"Drug": "297",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 036 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Cefoxitin sodium salt",
+		"Drug": "298",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 036 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Novobiocin sodium salt",
+		"Drug": "299",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 036 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Carbenoxolone disodium salt",
+		"Drug": "300",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 036 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Ganciclovir",
+		"Drug": "301",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 036 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Nafcillin sodium salt monohydrate",
+		"Drug": "302",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 036 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Roxithromycin",
+		"Drug": "303",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 036 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Beclomethasone dipropionate",
+		"Drug": "304",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 036 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Tolmetin sodium salt dihydrate",
+		"Drug": "305",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 036 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Paromomycin sulfate",
+		"Drug": "306",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 036 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Phthalylsulfathiazole",
+		"Drug": "307",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 036 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Rabeprazole Sodium salt",
+		"Drug": "308",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 037 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Meglumine",
+		"Drug": "309",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 037 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Clioquinol",
+		"Drug": "310",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 037 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Cortisol acetate",
+		"Drug": "311",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 037 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Butylparaben",
+		"Drug": "312",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 037 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Pipemidic acid",
+		"Drug": "313",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 037 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Hymecromone",
+		"Drug": "314",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 037 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Diloxanide furoate",
+		"Drug": "315",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 037 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "2-Aminobenzenesulfonamide",
+		"Drug": "316",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 037 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Lorglumide sodium salt",
+		"Drug": "317",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 037 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Bacitracin",
+		"Drug": "318",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 037 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Nizatidine",
+		"Drug": "319",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 037 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Flucytosine",
+		"Drug": "320",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 037 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Bephenium hydroxynaphthoate",
+		"Drug": "321",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 038 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Allopurinol",
+		"Drug": "322",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 038 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Florfenicol",
+		"Drug": "323",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 038 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Urosiol",
+		"Drug": "324",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 038 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Adrenosterone",
+		"Drug": "325",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 038 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Metyrapone",
+		"Drug": "326",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 038 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Ethynodiol diacetate",
+		"Drug": "327",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 038 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Estrone",
+		"Drug": "328",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 038 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Dehydroisoandosterone 3-acetate",
+		"Drug": "329",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 038 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Toremifene",
+		"Drug": "330",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 038 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Megestrol acetate",
+		"Drug": "331",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 038 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology/anti-inflammatory",
+		"Compound_Name": "Deoxycorticosterone",
+		"Drug": "332",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 038 72hrs",
+		"Therapeutic_Class_effect": "Immunology",
+		"Compound_Name": "Diacerein",
+		"Drug": "333",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 039 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Niacin",
+		"Drug": "334",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 039 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Esmolol hydrochloride",
+		"Drug": "335",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 039 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Urapidil hydrochloride",
+		"Drug": "336",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 039 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Nitrendipine",
+		"Drug": "337",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 039 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Nimodipine",
+		"Drug": "338",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 039 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Xamoterol hemifumarate",
+		"Drug": "339",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 039 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Quinapril hydrochloride",
+		"Drug": "340",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 039 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Bretylium tosylate",
+		"Drug": "341",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 039 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Phenoxybenzamine hydrochloride",
+		"Drug": "342",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 039 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Prazosin hydrochloride",
+		"Drug": "343",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 039 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Timolol maleate salt",
+		"Drug": "344",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 039 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "(+,-)-Octopamine hydrochloride",
+		"Drug": "345",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 039 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "(R)-(+)-Atenolol",
+		"Drug": "346",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 040 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Enilconazole",
+		"Drug": "347",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 040 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Methacycline hydrochloride",
+		"Drug": "348",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 040 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Dimaprit dihydrochloride",
+		"Drug": "349",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 040 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Oxfendazol",
+		"Drug": "350",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 040 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Phenylbutazone",
+		"Drug": "351",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 040 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Ribavirin",
+		"Drug": "352",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 040 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Proguanil hydrochloride",
+		"Drug": "353",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 040 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Lymecycline",
+		"Drug": "354",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 040 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Apramycin",
+		"Drug": "355",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 040 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Fursultiamine Hydrochloride",
+		"Drug": "356",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 040 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Pivampicillin",
+		"Drug": "357",
+		"Conc_of_drug_uM": "0.2"
+	},
+	{
+		"Expt_details": "Imaging 040 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Flucloxacillin sodium",
+		"Drug": "358",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 040 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Rimexolone",
+		"Drug": "359",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 040 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Nifurtimox",
+		"Drug": "360",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 041 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Arbutin",
+		"Drug": "361",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 041 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Benzathine benzylpenicillin",
+		"Drug": "362",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 041 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Halofantrine hydrochloride",
+		"Drug": "363",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 041 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Zalcitabine",
+		"Drug": "364",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 041 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Pyrvinium pamoate",
+		"Drug": "365",
+		"Conc_of_drug_uM": "0.2"
+	},
+	{
+		"Expt_details": "Imaging 041 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Sotalol hydrochloride",
+		"Drug": "366",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 041 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Pronethalol hydrochloride",
+		"Drug": "367",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 041 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Naftopidil dihydrochloride",
+		"Drug": "368",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 041 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Ozagrel hydrochloride",
+		"Drug": "369",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 041 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Piribedil hydrochloride",
+		"Drug": "370",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 041 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Cyclopenthiazide",
+		"Drug": "371",
+		"Conc_of_drug_uM": "0.2"
+	},
+	{
+		"Expt_details": "Imaging 041 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Fluticasone propionate",
+		"Drug": "372",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 042 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Trapidil",
+		"Drug": "373",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 042 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Ethamsylate",
+		"Drug": "374",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 042 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Moxonidine",
+		"Drug": "375",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 042 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Etilefrine hydrochloride",
+		"Drug": "376",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 042 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Alprostadil",
+		"Drug": "377",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 042 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Tribenoside",
+		"Drug": "378",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 042 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Isradipine",
+		"Drug": "379",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 042 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Nifekalant",
+		"Drug": "380",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 042 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Isometheptene mucate",
+		"Drug": "381",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 042 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Tocainide hydrochloride",
+		"Drug": "382",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 042 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Torsemide",
+		"Drug": "383",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 042 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Methyldopate hydrochloride",
+		"Drug": "384",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 043 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Canrenone",
+		"Drug": "385",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 043 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Gestrinone",
+		"Drug": "386",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 043 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Nandrolone",
+		"Drug": "387",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 043 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Norgestimate",
+		"Drug": "388",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 043 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Chlormadinone acetate",
+		"Drug": "389",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 043 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Gliquidone",
+		"Drug": "390",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 043 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Nomegestrol acetate",
+		"Drug": "391",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 043 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Repaglinide",
+		"Drug": "392",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 043 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Cyproterone acetate",
+		"Drug": "393",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 043 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Formestane",
+		"Drug": "394",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 043 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Estriol",
+		"Drug": "395",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 043 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology/anti-inflammatory",
+		"Compound_Name": "Clocortolone pivalate",
+		"Drug": "396",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 044 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Prednicarbate",
+		"Drug": "397",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 044 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Sertaconazole nitrate",
+		"Drug": "398",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 044 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Oxyphenbutazone",
+		"Drug": "399",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 044 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Pivmecillinam hydrochloride",
+		"Drug": "400",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 044 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Trifluridine",
+		"Drug": "401",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 044 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Mesalamine",
+		"Drug": "402",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 044 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Lansoprazole",
+		"Drug": "403",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 044 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Bethanechol chloride",
+		"Drug": "404",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 044 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Ciprofibrate",
+		"Drug": "405",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 044 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Misoprostol",
+		"Drug": "406",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 044 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Cyclopentolate hydrochloride",
+		"Drug": "407",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 044 72hrs",
+		"Therapeutic_Class_effect": "Immunology",
+		"Compound_Name": "Saquinavir mesylate",
+		"Drug": "408",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 044 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Penbutolol sulfate",
+		"Drug": "409",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 044 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Piretanide",
+		"Drug": "410",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 045 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Quinethazone",
+		"Drug": "411",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 045 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Moricizine hydrochloride",
+		"Drug": "412",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 045 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Oxprenolol hydrochloride",
+		"Drug": "413",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 045 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Milrinone",
+		"Drug": "414",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 045 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "(R)-Propranolol hydrochloride",
+		"Drug": "415",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 045 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "(S)-propranolol hydrochloride",
+		"Drug": "416",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 045 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Isosorbide mononitrate",
+		"Drug": "417",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 045 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "(+,-)-Synephrine",
+		"Drug": "418",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 045 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Ranolazine",
+		"Drug": "419",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 045 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "(-)-Isoproterenol hydrochloride",
+		"Drug": "420",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 045 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Perindopril",
+		"Drug": "421",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 045 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Ramipril",
+		"Drug": "422",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 045 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Mecamylamine hydrochloride",
+		"Drug": "423",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 045 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Dorzolamide hydrochloride",
+		"Drug": "424",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 046 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Doxycycline hydrochloride",
+		"Drug": "425",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 046 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Acetylcysteine",
+		"Drug": "426",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 046 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Anethole-trithione",
+		"Drug": "427",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 046 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Amcinonide",
+		"Drug": "428",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 046 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Diclazuril",
+		"Drug": "429",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 046 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Carprofen",
+		"Drug": "430",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 046 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Celecoxib",
+		"Drug": "431",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 046 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Fluconazole",
+		"Drug": "432",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 046 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Clofibrate",
+		"Drug": "433",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 046 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Fluocinolone acetonide",
+		"Drug": "434",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 046 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Atorvastatin",
+		"Drug": "435",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 046 72hrs",
+		"Therapeutic_Class_effect": "Metabolism/anti-inflammatory",
+		"Compound_Name": "Ibudilast",
+		"Drug": "436",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 047 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Pravastatin",
+		"Drug": "437",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 047 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Rosiglitazone Hydrochloride",
+		"Drug": "438",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 047 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Estradiol Valerate",
+		"Drug": "439",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 047 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Melengestrol acetate",
+		"Drug": "440",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 047 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Mitotane",
+		"Drug": "441",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 047 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Granisetron",
+		"Drug": "442",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 047 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Ethinylestradiol",
+		"Drug": "443",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 047 72hrs",
+		"Therapeutic_Class_effect": "Immunology",
+		"Compound_Name": "Cyclophosphamide",
+		"Drug": "444",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 048 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Carvedilol",
+		"Drug": "445",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 048 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Dopamine hydrochloride",
+		"Drug": "446",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 048 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Candesartan",
+		"Drug": "447",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 048 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Vardenafil",
+		"Drug": "448",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 048 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Ambrisentan",
+		"Drug": "449",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 048 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Losartan",
+		"Drug": "450",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 048 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Bosentan",
+		"Drug": "451",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 048 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Olmesartan",
+		"Drug": "452",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 048 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Racepinephrine hydrochloride",
+		"Drug": "453",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 048 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Fosinopril",
+		"Drug": "454",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 048 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Sildenafil",
+		"Drug": "455",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 049 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Troxipide",
+		"Drug": "456",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 049 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Ipriflavone",
+		"Drug": "457",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 049 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Ezetimibe",
+		"Drug": "458",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 049 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Pantoprazole sodium",
+		"Drug": "459",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 049 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Valdecoxib",
+		"Drug": "460",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 049 72hrs",
+		"Therapeutic_Class_effect": "Metabolism",
+		"Compound_Name": "Risedronic acid monohydrate",
+		"Drug": "461",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 049 72hrs",
+		"Therapeutic_Class_effect": "Immunology/Anti-inflammatory",
+		"Compound_Name": "Actarit",
+		"Drug": "462",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 049 72hrs",
+		"Therapeutic_Class_effect": "Immunology",
+		"Compound_Name": "Pidotimod",
+		"Drug": "463",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 049 72hrs",
+		"Therapeutic_Class_effect": "Immunology/Anti-inflammatory",
+		"Compound_Name": "Ampiroxicam",
+		"Drug": "464",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 049 72hrs",
+		"Therapeutic_Class_effect": "Anti-inflammatory",
+		"Compound_Name": "Amlexanox",
+		"Drug": "465",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 049 72hrs",
+		"Therapeutic_Class_effect": "Anti-inflammatory",
+		"Compound_Name": "Flumethasone pivalate",
+		"Drug": "466",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 049 72hrs",
+		"Therapeutic_Class_effect": "Anti-inflammatory",
+		"Compound_Name": "Loteprednol etabonate",
+		"Drug": "467",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 050 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Silodosin",
+		"Drug": "468",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 050 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Benidipine hydrochloride",
+		"Drug": "469",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 050 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Fenoldopam",
+		"Drug": "470",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 050 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Dofetilide",
+		"Drug": "471",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 050 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Clopidogrel",
+		"Drug": "472",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 050 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Enalaprilat dihydrate",
+		"Drug": "473",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 050 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Homoveratrylamine",
+		"Drug": "474",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 050 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Irbesartan",
+		"Drug": "475",
+		"Conc_of_drug_uM": "2"
+	},
+	{
+		"Expt_details": "Imaging 050 72hrs",
+		"Therapeutic_Class_effect": "Cardiovacular",
+		"Compound_Name": "Valsartan",
+		"Drug": "476",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 050 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Altrenogest",
+		"Drug": "477",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 050 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Nateglinide",
+		"Drug": "478",
+		"Conc_of_drug_uM": "10"
+	},
+	{
+		"Expt_details": "Imaging 050 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Algestone acetophenide",
+		"Drug": "479",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+		"Expt_details": "Imaging 050 72hrs",
+		"Therapeutic_Class_effect": "Endocrinology",
+		"Compound_Name": "Oxymetholone",
+		"Drug": "480",
+		"Conc_of_drug_uM": "1"
+	},
+	{
+        "Expt_details": "",
+        "Therapeutic_Class_effect": "",
+		"Compound_Name": "",
+		"Drug": "",
+		"Conc_of_drug_uM": ""
+	}
+]
+}

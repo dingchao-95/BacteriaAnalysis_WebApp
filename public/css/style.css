@@ -1,0 +1,342 @@
+.axis path,
+.axis line {
+  fill: none;
+	stroke: black;
+	shape-rendering: crispEdges;
+}
+.axis text {
+	font-family: sans-serif;
+	font-size: 11px;
+}
+
+
+div.tooltip {
+	position: absolute;
+	text-align: center;
+	width: 100px;
+	height: 80px;
+	padding: 2px;
+	font: 12px sans-serif;
+	background: lightsteelblue;
+	border: 0px;
+	border-radius: 8px;
+	pointer-events: none;
+}
+
+.label {
+    fill: #000;
+    font-weight: 1000;
+    font-size: 20px;
+}
+
+.axis path,
+.tick line,
+.tick text {
+    stroke: #666;
+    stroke-width: 0.5px;
+    stroke-opacity: 0.5;
+}
+
+.tick text {
+    fill: #666;
+}
+
+.extent {
+	fill: #000;
+	fill-opacity: .125;
+	stroke: #fff;
+}
+
+
+
+.page {
+    display: none;
+    float: left;
+    height: auto;
+    width: 80%;
+  }
+
+#chart
+{
+	width: 1500px;
+    height: 400px;
+    float: left;
+}
+
+div.tooltip {
+	background: #b0c4de;
+	border: 0;
+	border-radius: 8px;
+	font-family: 'Lobster';
+	font-size: 16px;
+	font-weight: bold;
+	height: 70px;
+	padding: 5px;
+	pointer-events: none;
+	text-align: center;
+	width: 120px;
+  }
+
+  /* Significance threshold line */
+.threshold {
+    stroke: #333;
+    stroke-dasharray: 5px 10px;
+    stroke-opacity: 0.75;
+}
+
+.thresholdLines {
+    clip-path: url(#clip);
+}
+
+.circlesContainer {
+    clip-path: url(#clip);
+}
+
+
+.bubble {
+    /*pointer-events: all;*/
+    fill: #666;
+    stroke: none;
+    opacity: 0.4;
+}
+
+.bubble.sig {
+    fill: red;
+}
+
+.bubble.fold {
+    fill: blue;
+}
+
+.bubble.sigfold {
+    fill: green;
+
+}
+
+.dot {
+    /*pointer-events: all;*/
+    fill: #000000;
+    stroke: none;
+    opacity: 1;
+}
+
+.dot.sig {
+    fill: red;
+}
+
+.dot.fold {
+    fill: blue;
+}
+
+.dot.sigfold {
+    fill: green;
+
+}
+
+.dot.grey{
+	fill:grey;
+}
+
+.dot.black{
+	fill: black;
+}
+
+.zoom {
+    cursor: move;
+    fill: none;
+    pointer-events: all;
+}
+
+.tooltip {
+    position: absolute;
+    z-index: 10;
+    background-color: white;
+    color: #000;
+    padding: 2px 7px;
+    visibility: hidden;
+    opacity: 1;
+    border-radius: 3px;
+}
+
+.tooltip::after {
+    content: " ";
+    position: absolute;
+    top: 14%;
+    right: 100%; /* To the left of the tooltip */
+    margin-top: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent #000 transparent transparent;
+}
+
+#resetBtn {
+    position: relative;
+    font-size: 1em;
+    font-weight: bold;
+	color: #4c4c4c;
+    background-color: #e5e5e5;
+    box-shadow: 1px 1px 0.5px rgba(51,51,51, 0.1);
+    border: 1px solid rgba(76, 76, 76, 0.5);
+    border-radius: 3px;
+    outline: none;
+}
+
+#resetBtn:hover {
+    color: #000;
+    cursor: pointer;
+}
+
+#uploadBtn {
+    float: left;
+    margin: 0 0 0 20px;
+}
+
+#noFileErrorMsg{
+    width: 350px;
+    height: 350px;
+    float: right;
+    display: none;
+}
+
+#rowValsErr{
+    width: 350px;
+    height: 350px;
+    display: none;
+}
+
+#dirName{
+    float: right;
+}
+
+#locality-dropdown{
+    margin: 10px;
+    position: relative;
+    top: 0%;
+    left:0%;
+    transform: translate(0%, 0%);
+    overflow: auto;
+    border: 3px solid green;
+}
+
+#dirName{
+    float: left;
+    border: 2px solid black;
+}
+
+#downloadChart{
+    float: right;
+    position: relative;
+    border: 2px solid green;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 25%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/*collapsible array*/
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 80%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 20px;
+  }
+  
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  .active, .collapsible:hover {
+    background-color: #ccc;
+  }
+  
+  /* Style the collapsible content. Note: hidden by default */
+  .content {
+    padding: 0 18px;
+    width: 80%;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+  }
+
+  .collapsible:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 15px;
+    color: white;
+    float: right;
+    margin-left: 5px;
+}
+
+.collapsible.active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+.collapsibleChk{
+    position: absolute;
+    right: 520px;
+    transform: scale(2);
+}
+
+.collapsibleText{
+    line-height: 18px;
+    width: 800px;
+    height: 300px;
+    overflow: auto;
+}
+
+#floater {
+    position: absolute;
+    top: 100px;
+    right: 300px;
+    width: 100px;
+    height: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    z-index: 1;
+}
+
+#selectCollapsibleArr{
+    width: 300px;
+    height: 80px;
+    box-sizing: content-box;
+    background-color: #e7e7e7; color: black;
+    border-radius: 12px;
+}

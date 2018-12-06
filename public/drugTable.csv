@@ -1,0 +1,481 @@
+Expt_details,Therapeutic_Class_effect,Compound_Name,Drug,Conc_of_drug_uM
+Imaging 012 72hrs,Metabolism,Acetazolamide,1,10
+Imaging 012 72hrs,Metabolism,Amiloride hydrochloride dihydrate,2,10
+Imaging 012 72hrs,Metabolism,Hydrochlorothiazide,3,10
+Imaging 012 72hrs,Metabolism,Meticrane,4,10
+Imaging 012 72hrs,Metabolism,Hydroflumethiazide,5,10
+Imaging 012 72hrs,Metabolism,Panthenol (D),6,10
+Imaging 012 72hrs,Metabolism,"""Antipyrine, 4-hydroxy""",7,10
+Imaging 012 72hrs,Metabolism,Triamterene,8,10
+Imaging 012 72hrs,Anti-inflammatory,Prednisone,9,10
+Imaging 012 72hrs,Endocrinology,Metformin hydrochloride,10,10
+Imaging 012 72hrs,Endocrinology / Anti-Inflammatory,Isoflupredone acetate,11,10
+Imaging 012 72hrs,Endocrinology,Norethynodrel,12,10
+Imaging 012 72hrs,Endocrinology,Acetohexamide,13,10
+Imaging 013 72hrs,Cardiovascular,Heptaminol hydrochloride,14,10
+Imaging 013 72hrs,Cardiovascular,Captopril,15,10
+Imaging 013 72hrs,Cardiovascular,Minoxidil,16,10
+Imaging 013 72hrs,Cardiovascular,Diprophylline,17,10
+Imaging 013 72hrs,Cardiovascular,Hexamethonium dibromide dihydrate,18,10
+Imaging 013 72hrs,Cardiovascular,Moxisylyte hydrochoride,19,10
+Imaging 013 72hrs,Cardiovascular,Naphazoline hydrochloride,20,10
+Imaging 013 72hrs,Cardiovascular,Lidocaine hydrochloride,21,10
+Imaging 013 72hrs,Cardiovascular,Tolazoline hydrochloride,22,10
+Imaging 013 72hrs,Cardiovascular,Nifedipine,23,10
+Imaging 013 72hrs,Cardiovascular,Chlorpromazine hydrochloride,24,10
+Imaging 013 72hrs,Cardiovascular,Isoxsuprine hydrochloride,25,10
+Imaging 013 72hrs,Cardiovascular,Acebutolol hydrochloride,26,10
+Imaging 013 72hrs,Cardiovascular,Todralazine hydrochloride,27,10
+Imaging 014 72hrs,Cardiovascular,Diazoxide,28,10
+Imaging 014 72hrs,Cardiovascular,Pindolol,29,10
+Imaging 014 72hrs,Cardiovascular,Khellin,30,10
+Imaging 014 72hrs,Cardiovascular,Mianserine hydrochloride,31,10
+Imaging 014 72hrs,Cardiovascular,Nicorandil,32,10
+Imaging 014 72hrs,Cardiovascular,Metolazone,33,10
+Imaging 014 72hrs,Cardiovascular,Diltiazem hydrochloride,34,10
+Imaging 014 72hrs,Cardiovascular,Verapamil hydrochloride,35,10
+Imaging 014 72hrs,Cardiovascular,Dipyridamole,36,10
+Imaging 014 72hrs,Cardiovascular,Nicergoline,37,10
+Imaging 014 72hrs,Metabolism,Acyclovir,38,10
+Imaging 014 72hrs,Metabolism,Disulfiram,39,10
+Imaging 015 72hrs,Endocrinology,Fulvestrant,40,10
+Imaging 015 72hrs,Endocrinology,Lynestrenol,41,10
+Imaging 015 72hrs,Endocrinology,Danazol,42,10
+Imaging 015 72hrs,Endocrinology,Pioglitazone,43,10
+Imaging 015 72hrs,Endocrinology,Oxandrolone,44,10
+Imaging 015 72hrs,Endocrinology/Anti-inflammatory,Triamcinolone,45,10
+Imaging 015 72hrs,Endocrinology,Spironolactone,46,10
+Imaging 015 72hrs,Endocrinology/Anti-inflammatory,Dexamethasone acetate,47,10
+Imaging 015 72hrs,Endocrinology,Glipizide,48,10
+Imaging 015 72hrs,Endocrinology,Tamoxifen citrate,49,10
+Imaging 015 72hrs,Endocrinology,Canrenoic acid potassium salt,50,10
+Imaging 016 72hrs,Cardiovascular,Hydralazine hydrochloride,51,10
+Imaging 016 72hrs,Cardiovascular,Etofylline,52,10
+Imaging 016 72hrs,Cardiovascular,Iproniazide phosphate,53,10
+Imaging 016 72hrs,Cardiovascular,Pargyline hydrochloride,54,10
+Imaging 016 72hrs,Cardiovascular,Pentolinium bitartrate,55,10
+Imaging 016 72hrs,Cardiovascular,Midodrine hydrochloride,56,10
+Imaging 016 72hrs,Cardiovascular,Pentoxifylline,57,10
+Imaging 016 72hrs,Cardiovascular,Metaraminol bitartrate,58,10
+Imaging 016 72hrs,Cardiovascular,Xylometazoline hydrochloride,59,10
+Imaging 016 72hrs,Cardiovascular,Phentolamine hydrochloride,60,10
+Imaging 016 72hrs,Cardiovascular,Dilazep dihydrochloride,61,10
+Imaging 016 72hrs,Anti-inflammatory,Meclofenamic acid sodium salt monohydrate,62,10
+Imaging 016 72hrs,Immunology,Levamisole hydrochloride,63,10
+Imaging 017 72hrs,Endocrinology,Phenformin hydrochloride,64,10
+Imaging 017 72hrs,Endocrinology,"""Aminopurine, 6-benzyl""",65,10
+Imaging 017 72hrs,Endocrinology,Tolbutamide,66,10
+Imaging 017 72hrs,Endocrinology,"""Tiratricol, 3,3',5-triiodothyroacetic acid""",67,10
+Imaging 017 72hrs,Endocrinology,Tibolone,68,10
+Imaging 017 72hrs,Metabolism,Oxolinic acid,69,10
+Imaging 017 72hrs,metabolism/ Anti-inflammatory,Nimesulide,70,10
+Imaging 017 72hrs,Metabolism,Gemfibrozil,71,10
+Imaging 017 72hrs,Metabolism,Indapamide,72,10
+Imaging 017 72hrs,Metabolism,Carmofur,73,10
+Imaging 018 72hrs,Endocrinology,Testosterone propionate,74,10
+Imaging 018 72hrs,Endocrinology,Thyroxine (L),75,10
+Imaging 018 72hrs,Endocrinology,Androsterone,76,10
+Imaging 018 72hrs,Endocrinology/anti-inflammatory,Corticosterone,77,10
+Imaging 018 72hrs,Endocrinology,Epiandrosterone,78,10
+Imaging 018 72hrs,Endocrinology,Estradiol-17 beta,79,2
+Imaging 018 72hrs,Endocrinology/anti-inflammatory,Hydrocortisone base,80,2
+Imaging 018 72hrs,Endocrinology,Stanozolol,81,10
+Imaging 018 72hrs,Endocrinology,Dinoprost trometamol,82,10
+Imaging 018 72hrs,Endocrinology,Progesterone,83,10
+Imaging 018 72hrs,Metabolism,Biotin,84,10
+Imaging 018 72hrs,Metabolism,Cyanocobalamin,85,10
+Imaging 018 72hrs,Metabolism,Carbimazole,86,10
+Imaging 018 72hrs,Metabolism,Itopride,87,10
+Imaging 018 72hrs,Metabolism/anti-inflammatory,Fentiazac,88,10
+Imaging 019 72hrs,Cardiovascular,Amiodarone hydrochloride,89,2
+Imaging 019 72hrs,Cardiovascular,Amlodipine,90,10
+Imaging 019 72hrs,Cardiovascular,Buflomedil hydrochloride,91,10
+Imaging 019 72hrs,Cardiovascular,Carteolol hydrochloride,92,10
+Imaging 019 72hrs,Immunology,Cyclosporin A,93,10
+Imaging 019 72hrs,Endocrinology,Norethindrone,94,1
+Imaging 019 72hrs,Endocrinology,Ethisterone,95,1
+Imaging 019 72hrs,Endocrinology,Cortisone,96,1
+Imaging 019 72hrs,Endocrinology,Prednisolone,97,1
+Imaging 019 72hrs,Endocrinology,"""Methylprednisolone, 6-alpha""",98,1
+Imaging 019 72hrs,Endocrinology,Mifepristone,99,1
+Imaging 019 72hrs,Endocrinology,Glibenclamide,100,1
+Imaging 020 72hrs,Metabolism,Ascorbic acid,101,10
+Imaging 020 72hrs,Metabolism,Zoxazolamine,102,10
+Imaging 020 72hrs,Metabolism,Furosemide,103,10
+Imaging 020 72hrs,Metabolism,Chlorthalidone,104,10
+Imaging 020 72hrs,Metabolism,Clopamide,105,10
+Imaging 020 72hrs,Metabolism,Amoxicillin,106,10
+Imaging 020 72hrs,Metabolism,Brinzolamide,107,10
+Imaging 020 72hrs,Metabolism/Anti-inflammatory,Meloxicam,108,10
+Imaging 020 72hrs,Metabolism,Bezafibrate,109,10
+Imaging 020 72hrs,Metabolism,Probucol,110,10
+Imaging 021 72hrs,Cardiovascular,Alfuzosin hydrochloride,111,10
+Imaging 021 72hrs,Cardiovascular,"""Methyldopa (L,-)""",112,10
+Imaging 021 72hrs,Cardiovascular,Bisoprolol fumarate,113,10
+Imaging 021 72hrs,Cardiovascular,Practolol,114,10
+Imaging 021 72hrs,Cardiovascular,Zaprinast,115,10
+Imaging 021 72hrs,Cardiovascular,Procainamide hydrochloride,116,10
+Imaging 021 72hrs,Cardiovascular,Guanfacine hydrochloride,117,10
+Imaging 021 72hrs,Cardiovascular,Dobutamine hydrochloride,118,10
+Imaging 021 72hrs,Cardiovascular,Adenosine 5'-monophosphate monohydrate,119,10
+Imaging 021 72hrs,Cardiovascular,Bepridil hydrochloride ,120,10
+Imaging 021 72hrs,Cardiovascular,Benzbromarone,121,10
+Imaging 021 72hrs,Cardiovascular,Debrisoquin sulfate,122,10
+Imaging 022 72hrs,Cardiovascular,Nafronyl oxalate,123,10
+Imaging 022 72hrs,Cardiovascular,Lidoflazine,124,10
+Imaging 022 72hrs,Cardiovascular,Betaxolol hydrochloride,125,10
+Imaging 022 72hrs,Cardiovascular,Nicardipine hydrochloride,126,2
+Imaging 022 72hrs,Cardiovascular,Ketanserin tartrate hydrate,127,10
+Imaging 022 72hrs,Anti-Inflammatory/Ophthalmology,Pemirolast potassium,128,10
+Imaging 022 72hrs,Endocrinology,Chlorpropamide,129,10
+Imaging 022 72hrs,Endocrinology/Anti-inflammatory,Betamethasone,130,10
+Imaging 022 72hrs,Endocrinology,"""Clomiphene citrate (Z,E)""",131,10
+Imaging 022 72hrs,Immunology /Anti-inflammatory,"""Amethopterin (R,S)""",132,2
+Imaging 023 72hrs,Metabolism,Flavoxate hydrochloride,133,1
+Imaging 023 72hrs,Metabolism,Chlorothiazide,134,1
+Imaging 023 72hrs,Metabolism,Ethacrynic acid,135,1
+Imaging 023 72hrs,Metabolism,Fenofibrate,136,1
+Imaging 023 72hrs,Metabolism,Bumetanide,137,1
+Imaging 023 72hrs,Metabolism,Glafenine hydrochloride,138,1
+Imaging 023 72hrs,Metabolism,Acemetacin,139,1
+Imaging 023 72hrs,Anti-Inflammatory,Fludrocortisone acetate,140,1
+Imaging 023 72hrs,Anti-Inflammatory,Amodiaquin dihydrochloride dihydrate,141,1
+Imaging 023 72hrs,Cardiovascular,Mexiletine hydrochloride,142,1
+Imaging 023 72hrs,Cardiovascular,Pinacidil,143,1
+Imaging 024 72hrs,Cardiovascular,Clonidine hydrochloride,144,1
+Imaging 024 72hrs,Cardiovascular,Alprenolol hydrochloride,145,1
+Imaging 024 72hrs,Cardiovascular,Disopyramide,146,1
+Imaging 024 72hrs,Cardiovascular,Vinpocetine,147,1
+Imaging 024 72hrs,Cardiovascular,Fendiline hydrochloride,148,1
+Imaging 024 72hrs,Cardiovascular,Labetalol hydrochloride,149,1
+Imaging 024 72hrs,Cardiovascular,Quinidine hydrochloride monohydrate,150,1
+Imaging 024 72hrs,Cardiovascular,Perhexiline maleate,151,1
+Imaging 024 72hrs,Cardiovascular,Lisinopril,152,1
+Imaging 024 72hrs,Cardiovascular,Ifenprodil tartrate,153,1
+Imaging 024 72hrs,Cardiovascular,Enalapril maleate,154,1
+Imaging 024 72hrs,Cardiovascular,Clofilium tosylate,155,1
+Imaging 025 72hrs,Metabolism/Anti-inflammatory,Rofecoxib,156,10
+Imaging 025 72hrs,Metabolism,Propylthiouracil,157,10
+Imaging 025 72hrs,Metabolism,Lovastatin,158,2
+Imaging 025 72hrs,Metabolism,Trolox,159,10
+Imaging 025 72hrs,Metabolism,Probenecid,160,10
+Imaging 025 72hrs,Metabolism/Anti-inflammatory,Chloroquine diphosphate,161,10
+Imaging 025 72hrs,Metabolism/Anti-inflammatory,Parthenolide,162,2
+Imaging 025 72hrs,Metabolism,Tolazamide,163,10
+Imaging 025 72hrs,Metabolism,Gliclazide,164,10
+Imaging 026 72hrs,Cardiovascular,Propafenone hydrochloride,165,10
+Imaging 026 72hrs,Cardiovascular,Lofexidine,166,10
+Imaging 026 72hrs,Cardiovascular,Methoxamine hydrochloride,167,10
+Imaging 026 72hrs,Cardiovascular,(S)-(-)-Atenolol,168,10
+Imaging 026 72hrs,Cardiovascular,Molsidomine,169,10
+Imaging 026 72hrs,Cardiovascular,Trimetazidine dihydrochloride,170,10
+Imaging 026 72hrs,Cardiovascular,Prenylamine lactate,171,10
+Imaging 026 72hrs,Immunology,Tetramisole hydrochloride,172,10
+Imaging 026 72hrs,Endocrinology/Anti-infallmatory,Budesonide,173,10
+Imaging 026 72hrs,Endocrinology,Miglitol,174,10
+Imaging 026 72hrs,Endocrinology,Pregnenolone,175,10
+Imaging 027 72hrs,Metabolism,Troglitazone,176,10
+Imaging 027 72hrs,Metabolism,Tenatoprazole,177,10
+Imaging 027 72hrs,Metabolism,Alfacalcidol,178,10
+Imaging 027 72hrs,Metabolism,Etofenamate,179,10
+Imaging 027 72hrs,Metabolism,Fomepizole,180,10
+Imaging 027 72hrs,Metabolism,Tizanidine hydrochloride,181,10
+Imaging 027 72hrs,Metabolism,Hydroxychloroquine sulfate,182,10
+Imaging 027 72hrs,Metabolism,Fenipentol,183,10
+Imaging 027 72hrs,Metabolism,Acipimox,184,10
+Imaging 027 72hrs,Metabolism,Pyridoxine hydrochloride,185,10
+Imaging 027 72hrs,Metabolism,Folic acid,186,10
+Imaging 027 72hrs,Metabolism,Alendronate sodium,187,10
+Imaging 028 72hrs,Cardiovascular,Mevastatin,188,1
+Imaging 028 72hrs,Cardiovascular,Lacidipine,189,10
+Imaging 028 72hrs,Cardiovascular,Papaverine hydrochloride,190,10
+Imaging 028 72hrs,Cardiovascular,Yohimbine hydrochloride,191,10
+Imaging 028 72hrs,Cardiovascular,Celiprolol hydrochloride,192,10
+Imaging 028 72hrs,Cardiovascular,Diosmin,193,10
+Imaging 028 72hrs,Cardiovascular,Benazepril hydrochloride,194,10
+Imaging 028 72hrs,Anti-inflammatory/CNS,Diclofenac sodium,195,10
+Imaging 028 72hrs,Endocrinology,Acarbose,196,10
+Imaging 028 72hrs,Endocrinology,Mometasone furoate,197,2
+Imaging 028 72hrs,Endocrinology,Exemestane,198,10
+Imaging 028 72hrs,Endocrinology,Diflorasone Diacetate,199,10
+Imaging 028 72hrs,Immunology,Azelastine hydrochloride,200,10
+Imaging 028 72hrs,Immunology,Mercaptopurine,201,2
+Imaging 029 72hrs,Metabolism,Rebamipide,202,10
+Imaging 029 72hrs,Metabolism,Benfotiamine,203,10
+Imaging 029 72hrs,Metabolism,Benzamil hydrochloride,204,10
+Imaging 029 72hrs,Metabolism,Tetraethylenepentamine pentahydrochloride,205,10
+Imaging 029 72hrs,Metabolism,Irsogladine maleate,206,10
+Imaging 029 72hrs,Metabolism,Beta-Escin,207,2
+Imaging 029 72hrs,Metabolism,Ibandronate sodium ,208,10
+Imaging 029 72hrs,Metabolism/Anti-inflammatory,Pranoprofen,209,10
+Imaging 029 72hrs,Cardiovacular,Nilvadipine,210,10
+Imaging 029 72hrs,Cardiovacular,Nisoldipine,211,10
+Imaging 029 72hrs,Cardiovacular,Pempidine tartrate,212,10
+Imaging 029 72hrs,Cardiovacular,Ibutilide fumarate,213,10
+Imaging 029 72hrs,Cardiovacular,Tetrahydrozoline hydrochloride,214,10
+Imaging 029 72hrs,Cardiovacular,Isosorbide dinitrate,215,10
+Imaging 030 72hrs,Endocrinology/Anti-inflammatory,Flunisolide,216,10
+Imaging 030 72hrs,Endocrinology,Glimepiride,217,10
+Imaging 030 72hrs,Endocrinology,Dydrogesterone,218,10
+Imaging 030 72hrs,Endocrinology,Estropipate,219,10
+Imaging 030 72hrs,Endocrinology,3-alpha-Hydroxy-5-beta-androstan-17-one,220,10
+Imaging 030 72hrs,Endocrinology,Hexestrol,221,10
+Imaging 030 72hrs,Endocrinology,Finasteride,222,10
+Imaging 030 72hrs,Endocrinology/Anti-inflammatory,Fluorometholone,223,10
+Imaging 030 72hrs,Anti-inflammatory,Flurandrenolide,224,10
+Imaging 030 72hrs,Anti-inflammatory,Halcinonide,225,10
+Imaging 030 72hrs,Immunology,Thiamine hydrochloride,226,10
+Imaging 031 72hrs,Metabolism,Althiazide,227,10
+Imaging 031 72hrs,Metabolism/anti-inflammatory,Flumethasone,228,10
+Imaging 031 72hrs,Metabolism,Cefazolin sodium salt,229,10
+Imaging 031 72hrs,Metabolism/anti-inflammatory,Ebselen,230,10
+Imaging 031 72hrs,Metabolism,Nadide,231,10
+Imaging 031 72hrs,Metabolism,Sulfamethizole,232,10
+Imaging 031 72hrs,Metabolism/anti-inflammatory,Medrysone,233,10
+Imaging 031 72hrs,Metabolism,Spiramycin,234,10
+Imaging 031 72hrs,Metabolism,Aprepitant,235,2
+Imaging 031 72hrs,Metabolism,Demeclocycline hydrochloride,236,10
+Imaging 031 72hrs,Metabolism/anti-inflammatory,Fenoprofen calcium salt dihydrate,237,10
+Imaging 031 72hrs,Metabolism,Piperacillin sodium salt,238,10
+Imaging 031 72hrs,Metabolism,Ribostamycin sulfate salt,239,10
+Imaging 031 72hrs,Metabolism,Sulfapyridine,240,10
+Imaging 032 72hrs,Metabolism,Ethoxyquin,241,10
+Imaging 032 72hrs,Metabolism,Vidarabine,242,10
+Imaging 032 72hrs,Metabolism,Sulfameter,243,10
+Imaging 032 72hrs,Metabolism,Isopropamide iodide,244,10
+Imaging 032 72hrs,Metabolism/anti-inflammatory,Alclometasone dipropionate,245,2
+Imaging 032 72hrs,Metabolism/anti-inflammatory,Fluocinonide,246,10
+Imaging 032 72hrs,Metabolism,Sulfamethazine sodium salt,247,10
+Imaging 032 72hrs,Metabolism/anti-inflammatory,Zomepirac sodium salt,248,10
+Imaging 032 72hrs,Metabolism/anti-inflammatory,Cinoxacin,249,10
+Imaging 032 72hrs,Metabolism/anti-inflammatory,Clobetasol propionate,250,10
+Imaging 032 72hrs,Metabolism,Clofibric acid,251,10
+Imaging 032 72hrs,Metabolism/anti-inflammatory,(R) -Naproxen sodium salt,252,10
+Imaging 032 72hrs,Metabolism,Lithocholic acid,253,10
+Imaging 033 72hrs,Cardiovacular,Mephentermine hemisulfate,254,10
+Imaging 033 72hrs,Cardiovacular,"""Metoprolol-(+,-) (+)-tartrate salt""",255,10
+Imaging 033 72hrs,Cardiovacular,Flecainide acetate,256,10
+Imaging 033 72hrs,Cardiovacular,Levonordefrin,257,10
+Imaging 033 72hrs,Cardiovacular,"""Mevalonic-D, L acid lactone""",258,10
+Imaging 033 72hrs,Cardiovacular,Terazosin hydrochloride,259,10
+Imaging 033 72hrs,Cardiovacular,Guanadrel sulfate,260,10
+Imaging 033 72hrs,Cardiovacular,Bendroflumethiazide,261,2
+Imaging 033 72hrs,Cardiovacular,Amrinone,262,10
+Imaging 033 72hrs,Endocrinology,Diethylstilbestrol,263,2
+Imaging 033 72hrs,Endocrinology,Chlorotrianisene,264,10
+Imaging 033 72hrs,Endocrinology,Norgestrel-(-)-D,265,10
+Imaging 033 72hrs,Endocrinology,Methimazole,266,10
+Imaging 033 72hrs,Endocrinology,Dienestrol,267,2
+Imaging 034 72hrs,Immunology,Leflunomide,268,10
+Imaging 034 72hrs,Immunology/anti-inflammatory,Deflazacort,269,10
+Imaging 034 72hrs,Immunology,Amiprilose hydrochloride,270,10
+Imaging 034 72hrs,Cardiovacular,Bucladesine sodium salt,271,10
+Imaging 034 72hrs,Cardiovacular,Nadolol,272,10
+Imaging 034 72hrs,Cardiovacular,Aminophylline,273,10
+Imaging 034 72hrs,Cardiovacular,Benzthiazide,274,10
+Imaging 034 72hrs,Cardiovacular,Trichlormethiazide,275,10
+Imaging 034 72hrs,Cardiovacular,Nylidrin,276,10
+Imaging 034 72hrs,Cardiovacular,Doxazosin mesylate,277,10
+Imaging 034 72hrs,Cardiovacular,Simvastatin,278,2
+Imaging 034 72hrs,Cardiovacular,Theophylline monohydrate,279,10
+Imaging 034 72hrs,Cardiovacular,Theobromine,280,10
+Imaging 034 72hrs,Cardiovacular,Carbachol,281,10
+Imaging 035 72hrs,Anti-Inflammatory/Gastroenterology,Balsalazide Sodium,282,10
+Imaging 035 72hrs,Anti-Inflammatory/CNS,Oxalamine citrate salt,283,10
+Imaging 035 72hrs,Endocrinology,Ethynylestradiol 3-methyl ether,284,10
+Imaging 035 72hrs,Endocrinology,Equilin,285,10
+Imaging 035 72hrs,Endocrinology,Liothyronine,286,10
+Imaging 035 72hrs,Endocrinology,Raloxifene hydrochloride,287,10
+Imaging 035 72hrs,Endocrinology,Bicalutamide,288,10
+Imaging 035 72hrs,Metabolism,Methazolamide,289,10
+Imaging 035 72hrs,Metabolism,Spectinomycin dihydrochloride,290,10
+Imaging 035 72hrs,Metabolism,Piromidic acid,291,10
+Imaging 035 72hrs,Metabolism,Furazolidone,292,10
+Imaging 035 72hrs,Metabolism,Sulconazole nitrate,293,2
+Imaging 035 72hrs,Metabolism,Cefsulodin sodium salt,294,10
+Imaging 036 72hrs,Metabolism,Moxalactam disodium salt,295,10
+Imaging 036 72hrs,Metabolism,Azlocillin sodium salt,296,10
+Imaging 036 72hrs,Metabolism,Sulfamonomethoxine,297,2
+Imaging 036 72hrs,Metabolism,Cefoxitin sodium salt,298,10
+Imaging 036 72hrs,Metabolism,Novobiocin sodium salt,299,10
+Imaging 036 72hrs,Metabolism,Carbenoxolone disodium salt,300,10
+Imaging 036 72hrs,Metabolism,Ganciclovir,301,10
+Imaging 036 72hrs,Metabolism,Nafcillin sodium salt monohydrate,302,10
+Imaging 036 72hrs,Metabolism,Roxithromycin,303,10
+Imaging 036 72hrs,Metabolism/anti-inflammatory,Beclomethasone dipropionate,304,10
+Imaging 036 72hrs,Metabolism/anti-inflammatory,Tolmetin sodium salt dihydrate,305,10
+Imaging 036 72hrs,Metabolism,Paromomycin sulfate,306,10
+Imaging 036 72hrs,Metabolism,Phthalylsulfathiazole,307,10
+Imaging 036 72hrs,Metabolism,Rabeprazole Sodium salt,308,10
+Imaging 037 72hrs,Metabolism,Meglumine,309,10
+Imaging 037 72hrs,Metabolism,Clioquinol,310,10
+Imaging 037 72hrs,Metabolism/anti-inflammatory,Cortisol acetate,311,10
+Imaging 037 72hrs,Metabolism,Butylparaben,312,10
+Imaging 037 72hrs,Metabolism,Pipemidic acid,313,10
+Imaging 037 72hrs,Metabolism,Hymecromone,314,10
+Imaging 037 72hrs,Metabolism,Diloxanide furoate,315,10
+Imaging 037 72hrs,Metabolism,2-Aminobenzenesulfonamide,316,10
+Imaging 037 72hrs,Metabolism,Lorglumide sodium salt,317,10
+Imaging 037 72hrs,Metabolism,Bacitracin,318,10
+Imaging 037 72hrs,Metabolism,Nizatidine,319,10
+Imaging 037 72hrs,Metabolism,Flucytosine,320,10
+Imaging 037 72hrs,Metabolism,Bephenium hydroxynaphthoate,321,10
+Imaging 038 72hrs,Metabolism,Allopurinol,322,10
+Imaging 038 72hrs,Metabolism,Florfenicol,323,10
+Imaging 038 72hrs,Metabolism,Urosiol,324,10
+Imaging 038 72hrs,Endocrinology,Adrenosterone,325,10
+Imaging 038 72hrs,Endocrinology,Metyrapone,326,10
+Imaging 038 72hrs,Endocrinology,Ethynodiol diacetate,327,10
+Imaging 038 72hrs,Endocrinology,Estrone,328,10
+Imaging 038 72hrs,Endocrinology,Dehydroisoandosterone 3-acetate,329,10
+Imaging 038 72hrs,Endocrinology,Toremifene,330,10
+Imaging 038 72hrs,Endocrinology,Megestrol acetate,331,10
+Imaging 038 72hrs,Endocrinology/anti-inflammatory,Deoxycorticosterone,332,10
+Imaging 038 72hrs,Immunology,Diacerein,333,10
+Imaging 039 72hrs,Cardiovacular,Niacin,334,10
+Imaging 039 72hrs,Cardiovacular,Esmolol hydrochloride,335,10
+Imaging 039 72hrs,Cardiovacular,Urapidil hydrochloride,336,10
+Imaging 039 72hrs,Cardiovacular,Nitrendipine,337,10
+Imaging 039 72hrs,Cardiovacular,Nimodipine,338,10
+Imaging 039 72hrs,Cardiovacular,Xamoterol hemifumarate,339,10
+Imaging 039 72hrs,Cardiovacular,Quinapril hydrochloride,340,10
+Imaging 039 72hrs,Cardiovacular,Bretylium tosylate,341,10
+Imaging 039 72hrs,Cardiovacular,Phenoxybenzamine hydrochloride,342,10
+Imaging 039 72hrs,Cardiovacular,Prazosin hydrochloride,343,10
+Imaging 039 72hrs,Cardiovacular,Timolol maleate salt,344,10
+Imaging 039 72hrs,Cardiovacular,"""(+,-)-Octopamine hydrochloride""",345,10
+Imaging 039 72hrs,Cardiovacular,(R)-(+)-Atenolol,346,10
+Imaging 040 72hrs,Metabolism,Enilconazole,347,1
+Imaging 040 72hrs,Metabolism,Methacycline hydrochloride,348,1
+Imaging 040 72hrs,Metabolism,Dimaprit dihydrochloride,349,1
+Imaging 040 72hrs,Metabolism,Oxfendazol,350,1
+Imaging 040 72hrs,Metabolism,Phenylbutazone,351,1
+Imaging 040 72hrs,Metabolism,Ribavirin,352,1
+Imaging 040 72hrs,Metabolism,Proguanil hydrochloride,353,1
+Imaging 040 72hrs,Metabolism,Lymecycline,354,1
+Imaging 040 72hrs,Metabolism,Apramycin,355,1
+Imaging 040 72hrs,Metabolism,Fursultiamine Hydrochloride,356,1
+Imaging 040 72hrs,Metabolism,Pivampicillin,357,0.2
+Imaging 040 72hrs,Metabolism,Flucloxacillin sodium,358,1
+Imaging 040 72hrs,Metabolism,Rimexolone,359,1
+Imaging 040 72hrs,Metabolism,Nifurtimox,360,1
+Imaging 041 72hrs,Metabolism,Arbutin,361,1
+Imaging 041 72hrs,Metabolism,Benzathine benzylpenicillin,362,1
+Imaging 041 72hrs,Metabolism,Halofantrine hydrochloride,363,1
+Imaging 041 72hrs,Metabolism,Zalcitabine,364,1
+Imaging 041 72hrs,Metabolism,Pyrvinium pamoate,365,0.2
+Imaging 041 72hrs,Cardiovacular,Sotalol hydrochloride,366,1
+Imaging 041 72hrs,Cardiovacular,Pronethalol hydrochloride,367,1
+Imaging 041 72hrs,Cardiovacular,Naftopidil dihydrochloride,368,1
+Imaging 041 72hrs,Cardiovacular,Ozagrel hydrochloride,369,1
+Imaging 041 72hrs,Cardiovacular,Piribedil hydrochloride,370,1
+Imaging 041 72hrs,Cardiovacular,Cyclopenthiazide,371,0.2
+Imaging 041 72hrs,Cardiovacular,Fluticasone propionate,372,1
+Imaging 042 72hrs,Cardiovacular,Trapidil,373,1
+Imaging 042 72hrs,Cardiovacular,Ethamsylate,374,1
+Imaging 042 72hrs,Cardiovacular,Moxonidine,375,1
+Imaging 042 72hrs,Cardiovacular,Etilefrine hydrochloride,376,1
+Imaging 042 72hrs,Cardiovacular,Alprostadil,377,1
+Imaging 042 72hrs,Cardiovacular,Tribenoside,378,1
+Imaging 042 72hrs,Cardiovacular,Isradipine,379,1
+Imaging 042 72hrs,Cardiovacular,Nifekalant,380,1
+Imaging 042 72hrs,Cardiovacular,Isometheptene mucate,381,1
+Imaging 042 72hrs,Cardiovacular,Tocainide hydrochloride,382,1
+Imaging 042 72hrs,Cardiovacular,Torsemide,383,1
+Imaging 042 72hrs,Cardiovacular,Methyldopate hydrochloride,384,1
+Imaging 043 72hrs,Endocrinology,Canrenone,385,1
+Imaging 043 72hrs,Endocrinology,Gestrinone,386,1
+Imaging 043 72hrs,Endocrinology,Nandrolone,387,1
+Imaging 043 72hrs,Endocrinology,Norgestimate,388,1
+Imaging 043 72hrs,Endocrinology,Chlormadinone acetate,389,1
+Imaging 043 72hrs,Endocrinology,Gliquidone,390,1
+Imaging 043 72hrs,Endocrinology,Nomegestrol acetate,391,1
+Imaging 043 72hrs,Endocrinology,Repaglinide,392,2
+Imaging 043 72hrs,Endocrinology,Cyproterone acetate,393,2
+Imaging 043 72hrs,Endocrinology,Formestane,394,10
+Imaging 043 72hrs,Endocrinology,Estriol,395,2
+Imaging 043 72hrs,Endocrinology/anti-inflammatory,Clocortolone pivalate,396,2
+Imaging 044 72hrs,Metabolism/anti-inflammatory,Prednicarbate,397,10
+Imaging 044 72hrs,Metabolism,Sertaconazole nitrate,398,10
+Imaging 044 72hrs,Metabolism/anti-inflammatory,Oxyphenbutazone,399,10
+Imaging 044 72hrs,Metabolism,Pivmecillinam hydrochloride,400,10
+Imaging 044 72hrs,Metabolism,Trifluridine,401,2
+Imaging 044 72hrs,Metabolism/anti-inflammatory,Mesalamine,402,10
+Imaging 044 72hrs,Metabolism,Lansoprazole,403,10
+Imaging 044 72hrs,Metabolism,Bethanechol chloride,404,10
+Imaging 044 72hrs,Metabolism,Ciprofibrate,405,2
+Imaging 044 72hrs,Metabolism,Misoprostol,406,10
+Imaging 044 72hrs,Metabolism,Cyclopentolate hydrochloride,407,10
+Imaging 044 72hrs,Immunology,Saquinavir mesylate,408,2
+Imaging 044 72hrs,Cardiovacular,Penbutolol sulfate,409,10
+Imaging 044 72hrs,Cardiovacular,Piretanide,410,10
+Imaging 045 72hrs,Cardiovacular,Quinethazone,411,10
+Imaging 045 72hrs,Cardiovacular,Moricizine hydrochloride,412,10
+Imaging 045 72hrs,Cardiovacular,Oxprenolol hydrochloride,413,10
+Imaging 045 72hrs,Cardiovacular,Milrinone,414,10
+Imaging 045 72hrs,Cardiovacular,(R)-Propranolol hydrochloride,415,10
+Imaging 045 72hrs,Cardiovacular,(S)-propranolol hydrochloride,416,10
+Imaging 045 72hrs,Cardiovacular,Isosorbide mononitrate,417,10
+Imaging 045 72hrs,Cardiovacular,"""(+,-)-Synephrine""",418,10
+Imaging 045 72hrs,Cardiovacular,Ranolazine,419,10
+Imaging 045 72hrs,Cardiovacular,(-)-Isoproterenol hydrochloride,420,10
+Imaging 045 72hrs,Cardiovacular,Perindopril,421,10
+Imaging 045 72hrs,Cardiovacular,Ramipril,422,2
+Imaging 045 72hrs,Cardiovacular,Mecamylamine hydrochloride,423,10
+Imaging 045 72hrs,Cardiovacular,Dorzolamide hydrochloride,424,10
+Imaging 046 72hrs,Metabolism,Doxycycline hydrochloride,425,10
+Imaging 046 72hrs,Metabolism,Acetylcysteine,426,10
+Imaging 046 72hrs,Metabolism,Anethole-trithione,427,10
+Imaging 046 72hrs,Metabolism/anti-inflammatory,Amcinonide,428,10
+Imaging 046 72hrs,Metabolism,Diclazuril,429,2
+Imaging 046 72hrs,Metabolism/anti-inflammatory,Carprofen,430,10
+Imaging 046 72hrs,Metabolism/anti-inflammatory,Celecoxib,431,10
+Imaging 046 72hrs,Metabolism,Fluconazole,432,10
+Imaging 046 72hrs,Metabolism,Clofibrate,433,10
+Imaging 046 72hrs,Metabolism/anti-inflammatory,Fluocinolone acetonide,434,10
+Imaging 046 72hrs,Metabolism,Atorvastatin,435,1
+Imaging 046 72hrs,Metabolism/anti-inflammatory,Ibudilast,436,10
+Imaging 047 72hrs,Metabolism,Pravastatin,437,10
+Imaging 047 72hrs,Metabolism,Rosiglitazone Hydrochloride,438,10
+Imaging 047 72hrs,Endocrinology,Estradiol Valerate,439,2
+Imaging 047 72hrs,Endocrinology,Melengestrol acetate,440,10
+Imaging 047 72hrs,Endocrinology,Mitotane,441,10
+Imaging 047 72hrs,Endocrinology,Granisetron,442,10
+Imaging 047 72hrs,Endocrinology,Ethinylestradiol,443,2
+Imaging 047 72hrs,Immunology,Cyclophosphamide,444,10
+Imaging 048 72hrs,Cardiovacular,Carvedilol,445,10
+Imaging 048 72hrs,Cardiovacular,Dopamine hydrochloride,446,10
+Imaging 048 72hrs,Cardiovacular,Candesartan,447,10
+Imaging 048 72hrs,Cardiovacular,Vardenafil,448,10
+Imaging 048 72hrs,Cardiovacular,Ambrisentan,449,10
+Imaging 048 72hrs,Cardiovacular,Losartan,450,10
+Imaging 048 72hrs,Cardiovacular,Bosentan,451,10
+Imaging 048 72hrs,Cardiovacular,Olmesartan,452,10
+Imaging 048 72hrs,Cardiovacular,Racepinephrine hydrochloride,453,10
+Imaging 048 72hrs,Cardiovacular,Fosinopril,454,10
+Imaging 048 72hrs,Cardiovacular,Sildenafil,455,10
+Imaging 049 72hrs,Metabolism,Troxipide,456,10
+Imaging 049 72hrs,Metabolism,Ipriflavone,457,10
+Imaging 049 72hrs,Metabolism,Ezetimibe,458,2
+Imaging 049 72hrs,Metabolism,Pantoprazole sodium,459,10
+Imaging 049 72hrs,Metabolism,Valdecoxib,460,10
+Imaging 049 72hrs,Metabolism,Risedronic acid monohydrate,461,2
+Imaging 049 72hrs,Immunology/Anti-inflammatory,Actarit,462,10
+Imaging 049 72hrs,Immunology,Pidotimod,463,10
+Imaging 049 72hrs,Immunology/Anti-inflammatory,Ampiroxicam,464,2
+Imaging 049 72hrs,Anti-inflammatory,Amlexanox,465,10
+Imaging 049 72hrs,Anti-inflammatory,Flumethasone pivalate,466,10
+Imaging 049 72hrs,Anti-inflammatory,Loteprednol etabonate,467,10
+Imaging 050 72hrs,Cardiovacular,Silodosin,468,10
+Imaging 050 72hrs,Cardiovacular,Benidipine hydrochloride,469,2
+Imaging 050 72hrs,Cardiovacular,Fenoldopam,470,2
+Imaging 050 72hrs,Cardiovacular,Dofetilide,471,10
+Imaging 050 72hrs,Cardiovacular,Clopidogrel,472,10
+Imaging 050 72hrs,Cardiovacular,Enalaprilat dihydrate,473,10
+Imaging 050 72hrs,Cardiovacular,Homoveratrylamine,474,2
+Imaging 050 72hrs,Cardiovacular,Irbesartan,475,2
+Imaging 050 72hrs,Cardiovacular,Valsartan,476,10
+Imaging 050 72hrs,Endocrinology,Altrenogest,477,10
+Imaging 050 72hrs,Endocrinology,Nateglinide,478,10
+Imaging 050 72hrs,Endocrinology,Algestone acetophenide,479,1
+Imaging 050 72hrs,Endocrinology,Oxymetholone,480,1
